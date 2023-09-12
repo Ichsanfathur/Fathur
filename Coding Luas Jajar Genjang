@@ -1,0 +1,11 @@
+#def luas_jajargenjang (a,t):
+#return 1/2*a*t
+#Deklarasikan variabel alas dan tinggi
+alas = 25
+tinggi = 30
+
+#Hitung luas jajar genjang dengan rumus
+luas_jajargenjang = 1/2*alas*tinggi
+
+#Tampilan hasil luas jajar genjang
+print(“Luas Jajar Genjang”, luas_jajargenjang )
