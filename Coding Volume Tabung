@@ -1,0 +1,12 @@
+#def volume_tabung (r,t):
+#return 3.14*r*r*t
+
+#Deklarasikan variabel jari-jari dan tinggi
+jari = 3
+tinggi = 5
+
+#Hitung volume tabung dengan rumus
+volume_tabung = 3.14*jari*jari*tinggi
+
+#Cetak hasil volume tabung
+print(“Volume Tabung”, volume_tabung)
