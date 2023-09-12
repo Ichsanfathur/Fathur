@@ -1,0 +1,19 @@
+#Inisial Variabel
+x = "Manggis"
+y = "Pisang"
+piring = [x, y, ""]
+
+#Tampilan Posisi awal
+print("piring 1 =", x)
+print("piring 2 =", y)
+print("piring 3 = ")
+
+#Menukar Posisi
+temp = x
+x = y
+y = temp
+
+#Cetak posisi
+print("Setelah pertukaran:")
+print("piring 1", x)
+print("piring 2", y)
